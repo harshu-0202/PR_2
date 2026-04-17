@@ -44,5 +44,5 @@ This repository contains a Power BI dashboard project designed to analyze and vi
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
 ## 📬 Contact
-Jenish Patel
+Harshil prajapati 
 
